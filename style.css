@@ -17,14 +17,17 @@ body {
   max-width: 500px;
   overflow: auto;
 }
+
 #first-paragraph {
   color: pink;
   font-family: Verdana;
 }
+
 #second-paragraph {
   color: mediumspringgreen;
   font-family: sans-serif;
 }
+
 h3 {
   font-family: arial;
 }
@@ -36,15 +39,18 @@ ul, li {
   padding: 20px;
   margin-right: 450px;
 }
+
 ul {
   background-color: blueviolet;
   padding: 20px;
 }
+
 ol, li{
   background-color: azure;
   padding: 20px;
   margin-right:450px;
 }
+
 ol {
   background-color: blanchedalmond;
   padding: 20px;
@@ -68,6 +74,7 @@ table, td, th {
 #cover-one {
   background: red;
 }
+
 #cover-two {
   background: green;
 } 
@@ -77,6 +84,7 @@ table, td, th {
   color: brown;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 #two-color {
   color: coral;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
