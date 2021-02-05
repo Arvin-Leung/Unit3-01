@@ -1,13 +1,13 @@
-/* background */
+ /* background */ 
 body {
   background-color: aliceblue;
 }
-/*The Page Header */
+ /*The Page Header */
 .header {
   text-align: center;
   border: 1px solid black;
-  background-image: linear-gradient(purple,blue,pink);
-  color:red;
+  background-image: linear-gradient(purple, blue, pink);
+  color: red;
   background-repeat: no-repeat;
   width: 500px;
 }
@@ -15,63 +15,63 @@ body {
   text-align: center;
   max-width: 500px;
   overflow: auto;
-}
+ }
 #first-paragraph {
   color: pink;
   font-family: Verdana;
-}
+ }
 #second-paragraph {
   color: mediumspringgreen;
   font-family: sans-serif;
-}
+ }
 h3 {
   font-family: arial;
-}
-/*Styling lists */
+ }
+ /*Styling lists */
 ul, li {
   list-style-position: inside;
   background-color: palevioletred;
   padding: 20px;
   margin-right: 450px;
-}
-ul{
+ }
+ul {
   background-color: blueviolet;
   padding: 20px;
-}
+ }
 ol, li{
   background-color: azure;
   padding: 20px;
   margin-right:450px;
-}
+ }
 ol {
   background-color: blanchedalmond;
   padding: 20px;
-}
-/* giving the tables grids */
+ }
+ /* giving the tables grids */
 table, td,th {
   border: 1px solid black;
   border-collapse:colapse;
-}
-/*styling the graph text */
+ }
+ /*styling the graph text */
 .graph-text{
   font-size: 15px;
   max-width: 500px;
   font-weight: bold;
   font-family:'Times New Roman', Times, serif;
-}
-/*styling graphs*/
+ }
+ /*styling graphs*/
 #cover-one{
   background: red;
-}
+ }
 #cover-two{
   background: green;
-}
-/* Graph text color */
+ } 
+ /* Graph text color */
 #one-color{
   color: brown;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+ }
 #two-color{
   color: coral;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
+ }
